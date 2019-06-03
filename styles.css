@@ -1,5 +1,19 @@
-h1{
-  color: blue;
-  border: solid;
-  border-radius: 9px;
+.info{
+  color: green;
+  font-family: 'Russo One', sans-serif;
+  font-size: 25px;
+}
+
+.name{
+  color: red;
+  font-size: 50px;
+  font-family: 'Russo One', sans-serif;
+}
+
+img{
+  height: 500px;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
